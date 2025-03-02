@@ -6,8 +6,8 @@
   #include <ESP8266mDNS.h>
   
   // Konfigurasi WiFi
-  const char* ssid = "kebunlombok";
-  const char* password = "abcd9876";
+  const char* ssid = "YourSsid"; //input ssid
+  const char* password = "YourPassword"; //input ssid password
   
   
   // NTP Server
